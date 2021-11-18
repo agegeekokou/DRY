@@ -11,3 +11,4 @@
 ![New Wireframe 1](https://user-images.githubusercontent.com/86836005/142002767-c93f72b5-1ce7-4508-899e-f2dd645f1a57.png)
 ![IMG_Virtual-pin-pad](https://user-images.githubusercontent.com/86836005/142003725-8ce97218-df2f-4cbc-be5b-1561dd306298.jpg)
 ###### Voici ci-dessus le wireframe et le dessin du virtual-pin-pad. L'interêt est de concevoir le virtual-pin-pad sans brûler les étapes de conception.
+###### Balsamiq wireframes est l'outil dont je me suis servi pour realiser le wireframe. Il permet de sélectionner des formes pour realiser des wireframes.
