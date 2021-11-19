@@ -12,3 +12,12 @@
 ![IMG_Virtual-pin-pad](https://user-images.githubusercontent.com/86836005/142003725-8ce97218-df2f-4cbc-be5b-1561dd306298.jpg)
 ###### Voici ci-dessus le wireframe et le dessin du virtual-pin-pad. L'interêt est de concevoir le virtual-pin-pad sans brûler les étapes de conception.
 ###### Balsamiq wireframes est l'outil dont je me suis servi pour realiser le wireframe. Il permet de sélectionner des formes pour realiser des wireframes.
+###### Le DOCTYPE garantie que le navigateur fait de son mieux pour suivre les spécifications pertinentes, plutôt que d'utiliser un mode de rendu different incompatible
+###### avec certaines spécifications.
+###### L'entête contient des informations telles que le titre de la page qui sera affiché en haut de la fenêtre du navigateur, mais aussi le type de codage des caractères
+###### utilisés.
+###### L'entête <<meta viewport>> sert à gérer le responsive design.
+###### Il recommmandé d'avoir les styles dans un fichier à part car il peut arriver d'avoir un fichier CSS pour plusieurs pages, et cela permet aussi d'avoir une certaine
+###### visibilité sur le code.
+###### En CSS tout element est inclus dans une boite. Il existe 2 types de boite: le bloc et le inline. Les elements htmln'ont pas le même comportement selon le fait qu'ils
+###### soient bloc ou inline.
