@@ -22,3 +22,5 @@
 ###### En CSS tout element est inclus dans une boite. Il existe 2 types de boite: le bloc et le inline. Les elements htmln'ont pas le même comportement selon le fait qu'ils
 ###### soient bloc ou inline.
 ###### Un sélecteur css définit les elements sur lesquel s'applique un ensemble de règles CSS.
+###### Une proprieté css sert à modifier les parametres d'un sélecteur, par exemple la couleur des caractères, la taille de la police etc...
+###### https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Selectors
