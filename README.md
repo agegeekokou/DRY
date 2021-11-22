@@ -13,7 +13,7 @@
 ###### Voici ci-dessus le wireframe et le dessin du virtual-pin-pad. L'interêt est de concevoir le virtual-pin-pad sans brûler les étapes de conception.
 ###### Balsamiq wireframes est l'outil dont je me suis servi pour realiser le wireframe. Il permet de sélectionner des formes pour realiser des wireframes.
 ###### Le DOCTYPE garantie que le navigateur fait de son mieux pour suivre les spécifications pertinentes, plutôt que d'utiliser un mode de rendu different incompatible
-###### avec certaines spécifications.
+###### avec certaines spécifications. Il permet de dire au navigateur qu'il s'agit bien d'un document html5.
 ###### L'entête contient des informations telles que le titre de la page qui sera affiché en haut de la fenêtre du navigateur, mais aussi le type de codage des caractères
 ###### utilisés.
 ###### L'entête <<meta viewport>> sert à gérer le responsive design.
