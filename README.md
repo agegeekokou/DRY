@@ -2,7 +2,7 @@
 # Réaliser un virtual-pin-pad
 ###### Concevoir un terminal de paiement en réalisant tout d'abord la maquette sur papier puis ensuite sur ordinateur.
 ## L'équipe: DRY Don't repeat yourself
-## Membres: Priyaa, Steve, Kokou. Scrum Master: Steve
+## Membres: Diane, Priyaa, Steve, Kokou. Scrum Master: Steve
 ###### Github est un outil collaboratif de gestion de projet. Un repository est un interface où l'on dépose et gére le projet. Kanban permet de visualiser l'avancé
 ###### du projet.
 ###### Il est très utile de diviser son travail en tâches avec une notion de priorités pour pouvoir segmenter le travail et résoudre individuellement les tâches.
